@@ -1,2 +1,5 @@
 New text for header
-changes from <main> - New changes
+<<<<<<< HEAD
+changes from <main>
+Changes from <first>
+Changest from master: New changes
